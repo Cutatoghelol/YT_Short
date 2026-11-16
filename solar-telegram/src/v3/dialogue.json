@@ -1,0 +1,31 @@
+[
+  {"start": 0, "end": 3, "lines": [
+    {"id": "hook", "who": "narrator", "speed": 0.95, "text": "Both batteries were off. Then the telegraph answered back."}
+  ]},
+  {"start": 3, "end": 12, "lines": [
+    {"id": "city", "who": "narrator", "speed": 1.07, "text": "September, eighteen fifty-nine. A tap in Boston makes a click in Portland, Maine. That's how news gets down the wire."},
+    {"id": "odd", "who": "narrator", "speed": 1.12, "gap": 0.12, "text": "Then the sounder starts hammering by itself. Across town, the other lines go wild."}
+  ]},
+  {"start": 12, "end": 23, "lines": [
+    {"id": "surge", "who": "narrator", "speed": 1.16, "text": "The signal cuts out. Then the current slams back! The operator jumps, and his chair shoots backward."},
+    {"id": "fire", "who": "narrator", "speed": 1.18, "gap": 0.12, "text": "Across the network, sparks leap from the equipment. At one station, paper catches fire."},
+    {"id": "idea", "who": "narrator", "speed": 0.99, "gap": 0.15, "text": "Boston looks down at the battery. What if they cut it off?"}
+  ]},
+  {"start": 23, "end": 36, "lines": [
+    {"id": "cut", "who": "boston", "speed": 1.09, "gap": 0.27, "text": "Cut off your battery!"},
+    {"id": "doubt", "who": "portland", "speed": 1.05, "gap": 0.16, "text": "Cut it off? How do you expect me to hear you?"},
+    {"id": "listen", "who": "boston", "speed": 0.98, "gap": 0.17, "text": "Mine's already off. Listen."},
+    {"id": "hesitate", "who": "narrator", "speed": 0.96, "gap": 0.16, "text": "Portland puts down the lead. He waits."},
+    {"id": "signal", "who": "narrator", "speed": 1.13, "gap": 0.48, "text": "Then comes the whole signal, every tap clear enough to read."},
+    {"id": "reply", "who": "portland", "speed": 0.93, "gap": 0.20, "text": "Better than before."}
+  ]},
+  {"start": 36, "end": 43, "lines": [
+    {"id": "test", "who": "narrator", "speed": 1.12, "text": "They send another test. Both leads are still on the desks. The current comes and goes, but when it steadies, they get right back to work."}
+  ]},
+  {"start": 43, "end": 58, "lines": [
+    {"id": "sun", "who": "narrator", "speed": 1.04, "text": "A storm from the Sun shook Earth's magnetic field."},
+    {"id": "ground", "who": "narrator", "speed": 1.10, "gap": 0.11, "text": "That change created an electric field at ground level. It pushed current through the long, grounded telegraph line."},
+    {"id": "aurora", "who": "narrator", "speed": 1.00, "gap": 0.16, "text": "The same storm lit up the sky with auroras."},
+    {"id": "end", "who": "narrator", "speed": 0.94, "gap": 0.14, "text": "They'd turned off their batteries. The Sun was still on the line."}
+  ]}
+]

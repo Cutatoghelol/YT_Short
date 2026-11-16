@@ -1,0 +1,150 @@
+[
+  {
+    "id": "hook",
+    "who": "narrator",
+    "speed": 0.99,
+    "text": "Both batteries were off. The line was still alive.",
+    "s": 0.12,
+    "e": 2.88
+  },
+  {
+    "id": "year",
+    "who": "narrator",
+    "speed": 1.02,
+    "text": "September, eighteen fifty-nine. A tap in Boston makes a click in Portland, Maine.",
+    "s": 3.085,
+    "e": 6.8151
+  },
+  {
+    "id": "news",
+    "who": "narrator",
+    "speed": 1.06,
+    "gap": 0.14,
+    "text": "That's how the news travels. One operator sends. The other listens.",
+    "s": 6.9551,
+    "e": 9.9873
+  },
+  {
+    "id": "odd",
+    "who": "narrator",
+    "speed": 0.93,
+    "gap": 0.16,
+    "text": "Then the line starts answering on its own.",
+    "s": 10.1473,
+    "e": 11.88
+  },
+  {
+    "id": "surge",
+    "who": "narrator",
+    "speed": 1.07,
+    "text": "The relay chatters. The signal vanishes. Then the current slams back.",
+    "s": 12.085,
+    "e": 15.1357
+  },
+  {
+    "id": "sparks",
+    "who": "narrator",
+    "speed": 1.05,
+    "gap": 0.12,
+    "text": "Across the telegraph network, sparks jump from machines. At one station, they set paper alight.",
+    "s": 15.2557,
+    "e": 19.5316
+  },
+  {
+    "id": "request",
+    "who": "narrator",
+    "speed": 0.97,
+    "gap": 0.13,
+    "text": "The equipment is useless like this. In Boston, the operator makes a strange request.",
+    "s": 19.6616,
+    "e": 23.88
+  },
+  {
+    "id": "cut",
+    "who": "boston",
+    "speed": 0.94,
+    "text": "Cut off your battery.",
+    "s": 24.085,
+    "e": 25.3685
+  },
+  {
+    "id": "off",
+    "who": "portland",
+    "speed": 1.02,
+    "gap": 0.2,
+    "text": "It's off. Is yours?",
+    "s": 25.5685,
+    "e": 26.6579
+  },
+  {
+    "id": "read",
+    "who": "boston",
+    "speed": 0.98,
+    "gap": 0.15,
+    "text": "Mine too. How do you read me?",
+    "s": 26.8079,
+    "e": 28.6631
+  },
+  {
+    "id": "reply",
+    "who": "portland",
+    "speed": 0.96,
+    "gap": 0.48,
+    "text": "Better than before.",
+    "s": 29.1431,
+    "e": 30.1246
+  },
+  {
+    "id": "back",
+    "who": "narrator",
+    "speed": 1.13,
+    "gap": 0.18,
+    "text": "Both batteries had been disconnected. And yet, every tap could still make it to the other office. The current came and went, so the operators adjusted their equipment and went right back to work.",
+    "s": 30.3046,
+    "e": 41.1121
+  },
+  {
+    "id": "question",
+    "who": "narrator",
+    "speed": 0.94,
+    "gap": 0.15,
+    "text": "Where was the power coming from?",
+    "s": 41.2621,
+    "e": 42.88
+  },
+  {
+    "id": "sun",
+    "who": "narrator",
+    "speed": 0.98,
+    "text": "A storm from the Sun shook Earth's magnetic field.",
+    "s": 43.085,
+    "e": 45.7469
+  },
+  {
+    "id": "ground",
+    "who": "narrator",
+    "speed": 1.08,
+    "gap": 0.13,
+    "text": "That changing field generated an electric field at ground level. It drove current through long, grounded wires.",
+    "s": 45.8769,
+    "e": 51.9126
+  },
+  {
+    "id": "aurora",
+    "who": "narrator",
+    "speed": 1.02,
+    "gap": 0.14,
+    "text": "The same storm lit up the sky with auroras.",
+    "s": 52.0526,
+    "e": 54.461
+  },
+  {
+    "id": "end",
+    "who": "narrator",
+    "speed": 0.96,
+    "gap": 0.13,
+    "text": "They'd switched off both batteries. The Sun was still on the line.",
+    "s": 54.591,
+    "e": 57.76
+  }
+]

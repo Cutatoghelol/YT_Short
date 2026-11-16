@@ -1,0 +1,1676 @@
+[
+  {
+    "word": "Both",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 0.13,
+    "confidence": 0.89643,
+    "breakAfter": false,
+    "e": 0.25
+  },
+  {
+    "word": "batteries",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 0.25,
+    "confidence": 0.993301,
+    "breakAfter": false,
+    "e": 0.81
+  },
+  {
+    "word": "were",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 0.81,
+    "confidence": 0.998256,
+    "breakAfter": false,
+    "e": 1.06
+  },
+  {
+    "word": "off",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 1.06,
+    "confidence": 0.999146,
+    "breakAfter": true,
+    "e": 1.6
+  },
+  {
+    "word": "The",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 1.6,
+    "confidence": 0.574143,
+    "breakAfter": false,
+    "e": 1.63
+  },
+  {
+    "word": "line",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 1.63,
+    "confidence": 0.988172,
+    "breakAfter": false,
+    "e": 1.89
+  },
+  {
+    "word": "was",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 1.89,
+    "confidence": 0.998851,
+    "breakAfter": false,
+    "e": 2.07
+  },
+  {
+    "word": "still",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 2.07,
+    "confidence": 0.999281,
+    "breakAfter": false,
+    "e": 2.41
+  },
+  {
+    "word": "alive",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 2.41,
+    "confidence": 0.997633,
+    "breakAfter": true,
+    "e": 2.88
+  },
+  {
+    "word": "September",
+    "line": "year",
+    "speaker": "narrator",
+    "s": 3.09,
+    "confidence": 0.969164,
+    "breakAfter": false,
+    "e": 3.65
+  },
+  {
+    "word": "eighteen",
+    "line": "year",
+    "speaker": "narrator",
+    "s": 3.65,
+    "confidence": 0.977686,
+    "breakAfter": false,
+    "e": 3.99
+  },
+  {
+    "word": "fifty-nine",
+    "line": "year",
+    "speaker": "narrator",
+    "s": 3.99,
+    "confidence": 0.977686,
+    "breakAfter": true,
+    "e": 4.56
+  },
+  {
+    "word": "A",
+    "line": "year",
+    "speaker": "narrator",
+    "s": 4.56,
+    "confidence": 0.959569,
+    "breakAfter": false,
+    "e": 4.63
+  },
+  {
+    "word": "tap",
+    "line": "year",
+    "speaker": "narrator",
+    "s": 4.63,
+    "confidence": 0.984176,
+    "breakAfter": false,
+    "e": 4.84
+  },
+  {
+    "word": "in",
+    "line": "year",
+    "speaker": "narrator",
+    "s": 4.84,
+    "confidence": 0.998553,
+    "breakAfter": false,
+    "e": 4.98
+  },
+  {
+    "word": "Boston",
+    "line": "year",
+    "speaker": "narrator",
+    "s": 4.98,
+    "confidence": 0.995677,
+    "breakAfter": false,
+    "e": 5.44
+  },
+  {
+    "word": "makes",
+    "line": "year",
+    "speaker": "narrator",
+    "s": 5.44,
+    "confidence": 0.890342,
+    "breakAfter": false,
+    "e": 5.65
+  },
+  {
+    "word": "a",
+    "line": "year",
+    "speaker": "narrator",
+    "s": 5.65,
+    "confidence": 0.994471,
+    "breakAfter": false,
+    "e": 5.69
+  },
+  {
+    "word": "click",
+    "line": "year",
+    "speaker": "narrator",
+    "s": 5.69,
+    "confidence": 0.982188,
+    "breakAfter": false,
+    "e": 6.0
+  },
+  {
+    "word": "in",
+    "line": "year",
+    "speaker": "narrator",
+    "s": 6.0,
+    "confidence": 0.987479,
+    "breakAfter": false,
+    "e": 6.13
+  },
+  {
+    "word": "Portland",
+    "line": "year",
+    "speaker": "narrator",
+    "s": 6.13,
+    "confidence": 0.953459,
+    "breakAfter": false,
+    "e": 6.43
+  },
+  {
+    "word": "Maine",
+    "line": "year",
+    "speaker": "narrator",
+    "s": 6.43,
+    "confidence": 0.991235,
+    "breakAfter": true,
+    "e": 6.815
+  },
+  {
+    "word": "That's",
+    "line": "news",
+    "speaker": "narrator",
+    "s": 6.955,
+    "confidence": 0.998186,
+    "breakAfter": false,
+    "e": 7.08
+  },
+  {
+    "word": "how",
+    "line": "news",
+    "speaker": "narrator",
+    "s": 7.08,
+    "confidence": 0.999249,
+    "breakAfter": false,
+    "e": 7.25
+  },
+  {
+    "word": "the",
+    "line": "news",
+    "speaker": "narrator",
+    "s": 7.25,
+    "confidence": 0.997938,
+    "breakAfter": false,
+    "e": 7.36
+  },
+  {
+    "word": "news",
+    "line": "news",
+    "speaker": "narrator",
+    "s": 7.36,
+    "confidence": 0.998944,
+    "breakAfter": false,
+    "e": 7.55
+  },
+  {
+    "word": "travels",
+    "line": "news",
+    "speaker": "narrator",
+    "s": 7.55,
+    "confidence": 0.998093,
+    "breakAfter": true,
+    "e": 8.05
+  },
+  {
+    "word": "One",
+    "line": "news",
+    "speaker": "narrator",
+    "s": 8.05,
+    "confidence": 0.895227,
+    "breakAfter": false,
+    "e": 8.4
+  },
+  {
+    "word": "operator",
+    "line": "news",
+    "speaker": "narrator",
+    "s": 8.4,
+    "confidence": 0.998022,
+    "breakAfter": false,
+    "e": 8.71
+  },
+  {
+    "word": "sends",
+    "line": "news",
+    "speaker": "narrator",
+    "s": 8.71,
+    "confidence": 0.985701,
+    "breakAfter": true,
+    "e": 9.12
+  },
+  {
+    "word": "The",
+    "line": "news",
+    "speaker": "narrator",
+    "s": 9.12,
+    "confidence": 0.938498,
+    "breakAfter": false,
+    "e": 9.26
+  },
+  {
+    "word": "other",
+    "line": "news",
+    "speaker": "narrator",
+    "s": 9.26,
+    "confidence": 0.998285,
+    "breakAfter": false,
+    "e": 9.5
+  },
+  {
+    "word": "listens",
+    "line": "news",
+    "speaker": "narrator",
+    "s": 9.5,
+    "confidence": 0.998208,
+    "breakAfter": true,
+    "e": 9.987
+  },
+  {
+    "word": "Then",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 10.147,
+    "confidence": 0.996187,
+    "breakAfter": false,
+    "e": 10.2
+  },
+  {
+    "word": "the",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 10.2,
+    "confidence": 0.941853,
+    "breakAfter": false,
+    "e": 10.37
+  },
+  {
+    "word": "line",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 10.37,
+    "confidence": 0.995879,
+    "breakAfter": false,
+    "e": 10.55
+  },
+  {
+    "word": "starts",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 10.55,
+    "confidence": 0.996993,
+    "breakAfter": false,
+    "e": 10.9
+  },
+  {
+    "word": "answering",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 10.9,
+    "confidence": 0.997747,
+    "breakAfter": false,
+    "e": 11.19
+  },
+  {
+    "word": "on",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 11.19,
+    "confidence": 0.995733,
+    "breakAfter": false,
+    "e": 11.57
+  },
+  {
+    "word": "its",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 11.57,
+    "confidence": 0.979731,
+    "breakAfter": false,
+    "e": 11.6
+  },
+  {
+    "word": "own",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 11.6,
+    "confidence": 0.999397,
+    "breakAfter": true,
+    "e": 11.88
+  },
+  {
+    "word": "The",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 12.085,
+    "confidence": null,
+    "breakAfter": false,
+    "e": 12.113
+  },
+  {
+    "word": "relay",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 12.113,
+    "confidence": 0.994373,
+    "breakAfter": false,
+    "e": 12.34
+  },
+  {
+    "word": "chatters",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 12.34,
+    "confidence": 0.824212,
+    "breakAfter": true,
+    "e": 13.03
+  },
+  {
+    "word": "The",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 13.03,
+    "confidence": 0.670031,
+    "breakAfter": false,
+    "e": 13.17
+  },
+  {
+    "word": "signal",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 13.17,
+    "confidence": 0.998372,
+    "breakAfter": false,
+    "e": 13.33
+  },
+  {
+    "word": "vanishes",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 13.33,
+    "confidence": 0.988461,
+    "breakAfter": true,
+    "e": 13.97
+  },
+  {
+    "word": "Then",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 13.97,
+    "confidence": 0.991927,
+    "breakAfter": false,
+    "e": 14.03
+  },
+  {
+    "word": "the",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 14.03,
+    "confidence": 0.997366,
+    "breakAfter": false,
+    "e": 14.21
+  },
+  {
+    "word": "current",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 14.21,
+    "confidence": 0.99386,
+    "breakAfter": false,
+    "e": 14.51
+  },
+  {
+    "word": "slams",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 14.51,
+    "confidence": 0.990137,
+    "breakAfter": false,
+    "e": 14.75
+  },
+  {
+    "word": "back",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 14.75,
+    "confidence": 0.99938,
+    "breakAfter": true,
+    "e": 15.136
+  },
+  {
+    "word": "Across",
+    "line": "sparks",
+    "speaker": "narrator",
+    "s": 15.42,
+    "confidence": 0.964775,
+    "breakAfter": false,
+    "e": 15.448
+  },
+  {
+    "word": "the",
+    "line": "sparks",
+    "speaker": "narrator",
+    "s": 15.448,
+    "confidence": 0.998117,
+    "breakAfter": false,
+    "e": 15.57
+  },
+  {
+    "word": "telegraph",
+    "line": "sparks",
+    "speaker": "narrator",
+    "s": 15.57,
+    "confidence": 0.803266,
+    "breakAfter": false,
+    "e": 16.02
+  },
+  {
+    "word": "network",
+    "line": "sparks",
+    "speaker": "narrator",
+    "s": 16.02,
+    "confidence": 0.999327,
+    "breakAfter": false,
+    "e": 16.49
+  },
+  {
+    "word": "sparks",
+    "line": "sparks",
+    "speaker": "narrator",
+    "s": 16.49,
+    "confidence": 0.846951,
+    "breakAfter": false,
+    "e": 16.94
+  },
+  {
+    "word": "jump",
+    "line": "sparks",
+    "speaker": "narrator",
+    "s": 16.94,
+    "confidence": 0.95839,
+    "breakAfter": false,
+    "e": 17.04
+  },
+  {
+    "word": "from",
+    "line": "sparks",
+    "speaker": "narrator",
+    "s": 17.04,
+    "confidence": 0.866387,
+    "breakAfter": false,
+    "e": 17.12
+  },
+  {
+    "word": "machines",
+    "line": "sparks",
+    "speaker": "narrator",
+    "s": 17.12,
+    "confidence": 0.972458,
+    "breakAfter": true,
+    "e": 17.78
+  },
+  {
+    "word": "At",
+    "line": "sparks",
+    "speaker": "narrator",
+    "s": 17.78,
+    "confidence": 0.998833,
+    "breakAfter": false,
+    "e": 17.81
+  },
+  {
+    "word": "one",
+    "line": "sparks",
+    "speaker": "narrator",
+    "s": 17.81,
+    "confidence": 0.995928,
+    "breakAfter": false,
+    "e": 17.93
+  },
+  {
+    "word": "station",
+    "line": "sparks",
+    "speaker": "narrator",
+    "s": 17.93,
+    "confidence": 0.999152,
+    "breakAfter": false,
+    "e": 18.39
+  },
+  {
+    "word": "they",
+    "line": "sparks",
+    "speaker": "narrator",
+    "s": 18.39,
+    "confidence": 0.998841,
+    "breakAfter": false,
+    "e": 18.6
+  },
+  {
+    "word": "set",
+    "line": "sparks",
+    "speaker": "narrator",
+    "s": 18.6,
+    "confidence": 0.997676,
+    "breakAfter": false,
+    "e": 18.75
+  },
+  {
+    "word": "paper",
+    "line": "sparks",
+    "speaker": "narrator",
+    "s": 18.75,
+    "confidence": 0.989409,
+    "breakAfter": false,
+    "e": 19.11
+  },
+  {
+    "word": "alight",
+    "line": "sparks",
+    "speaker": "narrator",
+    "s": 19.11,
+    "confidence": 0.755723,
+    "breakAfter": true,
+    "e": 19.532
+  },
+  {
+    "word": "The",
+    "line": "request",
+    "speaker": "narrator",
+    "s": 19.666,
+    "confidence": null,
+    "breakAfter": false,
+    "e": 19.694
+  },
+  {
+    "word": "equipment",
+    "line": "request",
+    "speaker": "narrator",
+    "s": 19.694,
+    "confidence": 0.999775,
+    "breakAfter": false,
+    "e": 20.14
+  },
+  {
+    "word": "is",
+    "line": "request",
+    "speaker": "narrator",
+    "s": 20.14,
+    "confidence": 0.998258,
+    "breakAfter": false,
+    "e": 20.24
+  },
+  {
+    "word": "useless",
+    "line": "request",
+    "speaker": "narrator",
+    "s": 20.24,
+    "confidence": 0.996557,
+    "breakAfter": false,
+    "e": 20.78
+  },
+  {
+    "word": "like",
+    "line": "request",
+    "speaker": "narrator",
+    "s": 20.78,
+    "confidence": 0.976738,
+    "breakAfter": false,
+    "e": 20.85
+  },
+  {
+    "word": "this",
+    "line": "request",
+    "speaker": "narrator",
+    "s": 20.85,
+    "confidence": 0.996736,
+    "breakAfter": true,
+    "e": 21.32
+  },
+  {
+    "word": "In",
+    "line": "request",
+    "speaker": "narrator",
+    "s": 21.32,
+    "confidence": 0.994981,
+    "breakAfter": false,
+    "e": 21.348
+  },
+  {
+    "word": "Boston",
+    "line": "request",
+    "speaker": "narrator",
+    "s": 21.348,
+    "confidence": 0.997512,
+    "breakAfter": false,
+    "e": 21.82
+  },
+  {
+    "word": "the",
+    "line": "request",
+    "speaker": "narrator",
+    "s": 21.82,
+    "confidence": 0.997018,
+    "breakAfter": false,
+    "e": 22.01
+  },
+  {
+    "word": "operator",
+    "line": "request",
+    "speaker": "narrator",
+    "s": 22.01,
+    "confidence": 0.995911,
+    "breakAfter": false,
+    "e": 22.8
+  },
+  {
+    "word": "makes",
+    "line": "request",
+    "speaker": "narrator",
+    "s": 22.8,
+    "confidence": 0.999384,
+    "breakAfter": false,
+    "e": 22.828
+  },
+  {
+    "word": "a",
+    "line": "request",
+    "speaker": "narrator",
+    "s": 22.828,
+    "confidence": 0.997841,
+    "breakAfter": false,
+    "e": 22.88
+  },
+  {
+    "word": "strange",
+    "line": "request",
+    "speaker": "narrator",
+    "s": 22.88,
+    "confidence": 0.999592,
+    "breakAfter": false,
+    "e": 23.31
+  },
+  {
+    "word": "request",
+    "line": "request",
+    "speaker": "narrator",
+    "s": 23.31,
+    "confidence": 0.999378,
+    "breakAfter": true,
+    "e": 23.88
+  },
+  {
+    "word": "Cut",
+    "line": "cut",
+    "speaker": "boston",
+    "s": 24.13,
+    "confidence": 0.889826,
+    "breakAfter": false,
+    "e": 24.21
+  },
+  {
+    "word": "off",
+    "line": "cut",
+    "speaker": "boston",
+    "s": 24.21,
+    "confidence": 0.984029,
+    "breakAfter": false,
+    "e": 24.45
+  },
+  {
+    "word": "your",
+    "line": "cut",
+    "speaker": "boston",
+    "s": 24.45,
+    "confidence": 0.999054,
+    "breakAfter": false,
+    "e": 24.7
+  },
+  {
+    "word": "battery",
+    "line": "cut",
+    "speaker": "boston",
+    "s": 24.7,
+    "confidence": 0.999255,
+    "breakAfter": true,
+    "e": 25.369
+  },
+  {
+    "word": "It's",
+    "line": "off",
+    "speaker": "portland",
+    "s": 25.57,
+    "confidence": 0.906694,
+    "breakAfter": false,
+    "e": 25.81
+  },
+  {
+    "word": "off",
+    "line": "off",
+    "speaker": "portland",
+    "s": 25.81,
+    "confidence": 0.992723,
+    "breakAfter": true,
+    "e": 25.99
+  },
+  {
+    "word": "Is",
+    "line": "off",
+    "speaker": "portland",
+    "s": 25.99,
+    "confidence": 0.496342,
+    "breakAfter": false,
+    "e": 26.15
+  },
+  {
+    "word": "yours",
+    "line": "off",
+    "speaker": "portland",
+    "s": 26.15,
+    "confidence": 0.998422,
+    "breakAfter": true,
+    "e": 26.658
+  },
+  {
+    "word": "Mine",
+    "line": "read",
+    "speaker": "boston",
+    "s": 26.93,
+    "confidence": 0.726834,
+    "breakAfter": false,
+    "e": 27.25
+  },
+  {
+    "word": "too",
+    "line": "read",
+    "speaker": "boston",
+    "s": 27.25,
+    "confidence": 0.998913,
+    "breakAfter": true,
+    "e": 27.7
+  },
+  {
+    "word": "How",
+    "line": "read",
+    "speaker": "boston",
+    "s": 27.7,
+    "confidence": 0.988749,
+    "breakAfter": false,
+    "e": 27.89
+  },
+  {
+    "word": "do",
+    "line": "read",
+    "speaker": "boston",
+    "s": 27.89,
+    "confidence": 0.993593,
+    "breakAfter": false,
+    "e": 27.99
+  },
+  {
+    "word": "you",
+    "line": "read",
+    "speaker": "boston",
+    "s": 27.99,
+    "confidence": 0.999376,
+    "breakAfter": false,
+    "e": 28.4
+  },
+  {
+    "word": "read",
+    "line": "read",
+    "speaker": "boston",
+    "s": 28.4,
+    "confidence": 0.995444,
+    "breakAfter": false,
+    "e": 28.54
+  },
+  {
+    "word": "me",
+    "line": "read",
+    "speaker": "boston",
+    "s": 28.54,
+    "confidence": 0.94599,
+    "breakAfter": true,
+    "e": 28.663
+  },
+  {
+    "word": "Better",
+    "line": "reply",
+    "speaker": "portland",
+    "s": 29.143,
+    "confidence": 0.948382,
+    "breakAfter": false,
+    "e": 29.33
+  },
+  {
+    "word": "than",
+    "line": "reply",
+    "speaker": "portland",
+    "s": 29.33,
+    "confidence": 0.996706,
+    "breakAfter": false,
+    "e": 29.58
+  },
+  {
+    "word": "before",
+    "line": "reply",
+    "speaker": "portland",
+    "s": 29.58,
+    "confidence": 0.999809,
+    "breakAfter": true,
+    "e": 30.125
+  },
+  {
+    "word": "Both",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 30.305,
+    "confidence": 0.99211,
+    "breakAfter": false,
+    "e": 30.43
+  },
+  {
+    "word": "batteries",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 30.43,
+    "confidence": 0.99674,
+    "breakAfter": false,
+    "e": 31.06
+  },
+  {
+    "word": "had",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 31.06,
+    "confidence": 0.993748,
+    "breakAfter": false,
+    "e": 31.23
+  },
+  {
+    "word": "been",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 31.23,
+    "confidence": 0.999743,
+    "breakAfter": false,
+    "e": 31.76
+  },
+  {
+    "word": "disconnected",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 31.76,
+    "confidence": 0.998972,
+    "breakAfter": true,
+    "e": 32.45
+  },
+  {
+    "word": "And",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 32.45,
+    "confidence": 0.989232,
+    "breakAfter": false,
+    "e": 32.51
+  },
+  {
+    "word": "yet",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 32.51,
+    "confidence": 0.989625,
+    "breakAfter": false,
+    "e": 32.83
+  },
+  {
+    "word": "every",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 32.83,
+    "confidence": 0.991756,
+    "breakAfter": false,
+    "e": 33.15
+  },
+  {
+    "word": "tap",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 33.15,
+    "confidence": 0.994917,
+    "breakAfter": false,
+    "e": 33.34
+  },
+  {
+    "word": "could",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 33.34,
+    "confidence": 0.997291,
+    "breakAfter": false,
+    "e": 33.92
+  },
+  {
+    "word": "still",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 33.92,
+    "confidence": 0.979346,
+    "breakAfter": false,
+    "e": 33.98
+  },
+  {
+    "word": "make",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 33.98,
+    "confidence": 0.999035,
+    "breakAfter": false,
+    "e": 34.24
+  },
+  {
+    "word": "it",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 34.24,
+    "confidence": 0.999436,
+    "breakAfter": false,
+    "e": 34.37
+  },
+  {
+    "word": "to",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 34.37,
+    "confidence": 0.997375,
+    "breakAfter": false,
+    "e": 34.5
+  },
+  {
+    "word": "the",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 34.5,
+    "confidence": 0.997303,
+    "breakAfter": false,
+    "e": 34.69
+  },
+  {
+    "word": "other",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 34.69,
+    "confidence": 0.998553,
+    "breakAfter": false,
+    "e": 35.01
+  },
+  {
+    "word": "office",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 35.01,
+    "confidence": 0.99541,
+    "breakAfter": true,
+    "e": 35.81
+  },
+  {
+    "word": "The",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 35.81,
+    "confidence": 0.999037,
+    "breakAfter": false,
+    "e": 35.87
+  },
+  {
+    "word": "current",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 35.87,
+    "confidence": 0.999563,
+    "breakAfter": false,
+    "e": 36.33
+  },
+  {
+    "word": "came",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 36.33,
+    "confidence": 0.999178,
+    "breakAfter": false,
+    "e": 36.59
+  },
+  {
+    "word": "and",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 36.59,
+    "confidence": 0.99142,
+    "breakAfter": false,
+    "e": 36.78
+  },
+  {
+    "word": "went",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 36.78,
+    "confidence": 0.999226,
+    "breakAfter": false,
+    "e": 37.28
+  },
+  {
+    "word": "so",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 37.28,
+    "confidence": 0.855572,
+    "breakAfter": false,
+    "e": 37.33
+  },
+  {
+    "word": "the",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 37.33,
+    "confidence": 0.997328,
+    "breakAfter": false,
+    "e": 37.53
+  },
+  {
+    "word": "operators",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 37.53,
+    "confidence": 0.996683,
+    "breakAfter": false,
+    "e": 38.15
+  },
+  {
+    "word": "adjusted",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 38.15,
+    "confidence": 0.990693,
+    "breakAfter": false,
+    "e": 38.85
+  },
+  {
+    "word": "their",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 38.85,
+    "confidence": 0.974676,
+    "breakAfter": false,
+    "e": 39.0
+  },
+  {
+    "word": "equipment",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 39.0,
+    "confidence": 0.997116,
+    "breakAfter": false,
+    "e": 39.52
+  },
+  {
+    "word": "and",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 39.52,
+    "confidence": 0.432171,
+    "breakAfter": false,
+    "e": 39.6
+  },
+  {
+    "word": "went",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 39.6,
+    "confidence": 0.906561,
+    "breakAfter": false,
+    "e": 39.92
+  },
+  {
+    "word": "right",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 39.92,
+    "confidence": 0.970476,
+    "breakAfter": false,
+    "e": 40.16
+  },
+  {
+    "word": "back",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 40.16,
+    "confidence": 0.982649,
+    "breakAfter": false,
+    "e": 40.48
+  },
+  {
+    "word": "to",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 40.48,
+    "confidence": 0.931008,
+    "breakAfter": false,
+    "e": 40.66
+  },
+  {
+    "word": "work",
+    "line": "back",
+    "speaker": "narrator",
+    "s": 40.66,
+    "confidence": 0.986214,
+    "breakAfter": true,
+    "e": 41.112
+  },
+  {
+    "word": "Where",
+    "line": "question",
+    "speaker": "narrator",
+    "s": 41.262,
+    "confidence": 0.993053,
+    "breakAfter": false,
+    "e": 41.49
+  },
+  {
+    "word": "was",
+    "line": "question",
+    "speaker": "narrator",
+    "s": 41.49,
+    "confidence": 0.998262,
+    "breakAfter": false,
+    "e": 41.62
+  },
+  {
+    "word": "the",
+    "line": "question",
+    "speaker": "narrator",
+    "s": 41.62,
+    "confidence": 0.996466,
+    "breakAfter": false,
+    "e": 41.81
+  },
+  {
+    "word": "power",
+    "line": "question",
+    "speaker": "narrator",
+    "s": 41.81,
+    "confidence": 0.999529,
+    "breakAfter": false,
+    "e": 42.12
+  },
+  {
+    "word": "coming",
+    "line": "question",
+    "speaker": "narrator",
+    "s": 42.12,
+    "confidence": 0.998572,
+    "breakAfter": false,
+    "e": 42.72
+  },
+  {
+    "word": "from",
+    "line": "question",
+    "speaker": "narrator",
+    "s": 42.72,
+    "confidence": 0.999184,
+    "breakAfter": true,
+    "e": 42.88
+  },
+  {
+    "word": "A",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 43.085,
+    "confidence": 0.999502,
+    "breakAfter": false,
+    "e": 43.113
+  },
+  {
+    "word": "storm",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 43.113,
+    "confidence": 0.999218,
+    "breakAfter": false,
+    "e": 43.33
+  },
+  {
+    "word": "from",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 43.33,
+    "confidence": 0.998731,
+    "breakAfter": false,
+    "e": 43.56
+  },
+  {
+    "word": "the",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 43.56,
+    "confidence": 0.998519,
+    "breakAfter": false,
+    "e": 43.74
+  },
+  {
+    "word": "Sun",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 43.74,
+    "confidence": 0.723678,
+    "breakAfter": false,
+    "e": 43.92
+  },
+  {
+    "word": "shook",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 43.92,
+    "confidence": 0.966461,
+    "breakAfter": false,
+    "e": 44.52
+  },
+  {
+    "word": "Earth's",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 44.52,
+    "confidence": 0.896865,
+    "breakAfter": false,
+    "e": 44.64
+  },
+  {
+    "word": "magnetic",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 44.64,
+    "confidence": 0.99926,
+    "breakAfter": false,
+    "e": 45.13
+  },
+  {
+    "word": "field",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 45.13,
+    "confidence": 0.998504,
+    "breakAfter": true,
+    "e": 45.747
+  },
+  {
+    "word": "That",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 45.877,
+    "confidence": 0.995573,
+    "breakAfter": false,
+    "e": 45.92
+  },
+  {
+    "word": "changing",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 45.92,
+    "confidence": 0.996255,
+    "breakAfter": false,
+    "e": 46.41
+  },
+  {
+    "word": "field",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 46.41,
+    "confidence": 0.998932,
+    "breakAfter": false,
+    "e": 46.71
+  },
+  {
+    "word": "generated",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 46.71,
+    "confidence": 0.949584,
+    "breakAfter": false,
+    "e": 47.28
+  },
+  {
+    "word": "an",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 47.28,
+    "confidence": 0.998001,
+    "breakAfter": false,
+    "e": 47.38
+  },
+  {
+    "word": "electric",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 47.38,
+    "confidence": 0.997961,
+    "breakAfter": false,
+    "e": 47.87
+  },
+  {
+    "word": "field",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 47.87,
+    "confidence": 0.998971,
+    "breakAfter": false,
+    "e": 48.17
+  },
+  {
+    "word": "at",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 48.17,
+    "confidence": 0.995159,
+    "breakAfter": false,
+    "e": 48.29
+  },
+  {
+    "word": "ground",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 48.29,
+    "confidence": 0.992807,
+    "breakAfter": false,
+    "e": 48.78
+  },
+  {
+    "word": "level",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 48.78,
+    "confidence": 0.989121,
+    "breakAfter": true,
+    "e": 49.32
+  },
+  {
+    "word": "It",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 49.32,
+    "confidence": 0.99879,
+    "breakAfter": false,
+    "e": 49.348
+  },
+  {
+    "word": "drove",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 49.348,
+    "confidence": 0.998769,
+    "breakAfter": false,
+    "e": 49.65
+  },
+  {
+    "word": "current",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 49.65,
+    "confidence": 0.987306,
+    "breakAfter": false,
+    "e": 50.04
+  },
+  {
+    "word": "through",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 50.04,
+    "confidence": 0.997967,
+    "breakAfter": false,
+    "e": 50.41
+  },
+  {
+    "word": "long",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 50.41,
+    "confidence": 0.998481,
+    "breakAfter": false,
+    "e": 50.82
+  },
+  {
+    "word": "grounded",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 50.82,
+    "confidence": 0.991658,
+    "breakAfter": false,
+    "e": 51.33
+  },
+  {
+    "word": "wires",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 51.33,
+    "confidence": 0.998753,
+    "breakAfter": true,
+    "e": 51.913
+  },
+  {
+    "word": "The",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 52.053,
+    "confidence": 0.98686,
+    "breakAfter": false,
+    "e": 52.081
+  },
+  {
+    "word": "same",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 52.081,
+    "confidence": 0.999773,
+    "breakAfter": false,
+    "e": 52.31
+  },
+  {
+    "word": "storm",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 52.31,
+    "confidence": 0.999443,
+    "breakAfter": false,
+    "e": 52.65
+  },
+  {
+    "word": "lit",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 52.65,
+    "confidence": 0.98991,
+    "breakAfter": false,
+    "e": 52.85
+  },
+  {
+    "word": "up",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 52.85,
+    "confidence": 0.997149,
+    "breakAfter": false,
+    "e": 52.98
+  },
+  {
+    "word": "the",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 52.98,
+    "confidence": 0.997177,
+    "breakAfter": false,
+    "e": 53.38
+  },
+  {
+    "word": "sky",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 53.38,
+    "confidence": 0.998889,
+    "breakAfter": false,
+    "e": 53.44
+  },
+  {
+    "word": "with",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 53.44,
+    "confidence": 0.998841,
+    "breakAfter": false,
+    "e": 53.65
+  },
+  {
+    "word": "auroras",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 53.65,
+    "confidence": 0.964373,
+    "breakAfter": true,
+    "e": 54.461
+  },
+  {
+    "word": "They'd",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 54.591,
+    "confidence": 0.922156,
+    "breakAfter": false,
+    "e": 54.77
+  },
+  {
+    "word": "switched",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 54.77,
+    "confidence": 0.996789,
+    "breakAfter": false,
+    "e": 55.13
+  },
+  {
+    "word": "off",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 55.13,
+    "confidence": 0.996493,
+    "breakAfter": false,
+    "e": 55.3
+  },
+  {
+    "word": "both",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 55.3,
+    "confidence": 0.998851,
+    "breakAfter": false,
+    "e": 55.5
+  },
+  {
+    "word": "batteries",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 55.5,
+    "confidence": 0.997565,
+    "breakAfter": true,
+    "e": 56.29
+  },
+  {
+    "word": "The",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 56.29,
+    "confidence": 0.749996,
+    "breakAfter": false,
+    "e": 56.32
+  },
+  {
+    "word": "Sun",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 56.32,
+    "confidence": 0.992297,
+    "breakAfter": false,
+    "e": 56.53
+  },
+  {
+    "word": "was",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 56.53,
+    "confidence": 0.999314,
+    "breakAfter": false,
+    "e": 56.64
+  },
+  {
+    "word": "still",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 56.64,
+    "confidence": 0.998849,
+    "breakAfter": false,
+    "e": 56.91
+  },
+  {
+    "word": "on",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 56.91,
+    "confidence": 0.996812,
+    "breakAfter": false,
+    "e": 57.06
+  },
+  {
+    "word": "the",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 57.06,
+    "confidence": 0.999325,
+    "breakAfter": false,
+    "e": 57.18
+  },
+  {
+    "word": "line",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 57.18,
+    "confidence": 0.999558,
+    "breakAfter": true,
+    "e": 57.76
+  }
+]

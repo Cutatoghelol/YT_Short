@@ -1,0 +1,2002 @@
+[
+  {
+    "word": "Both",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 0.14,
+    "confidence": 0.882435,
+    "breakAfter": false,
+    "display": "Both",
+    "e": 0.25
+  },
+  {
+    "word": "batteries",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 0.25,
+    "confidence": 0.992667,
+    "breakAfter": false,
+    "display": "batteries",
+    "e": 0.81
+  },
+  {
+    "word": "were",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 0.81,
+    "confidence": 0.998015,
+    "breakAfter": false,
+    "display": "were",
+    "e": 1.07
+  },
+  {
+    "word": "off",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 1.07,
+    "confidence": 0.999003,
+    "breakAfter": true,
+    "display": "off.",
+    "e": 1.43
+  },
+  {
+    "word": "Then",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 1.43,
+    "confidence": 0.936106,
+    "breakAfter": false,
+    "display": "Then",
+    "e": 1.61
+  },
+  {
+    "word": "the",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 1.61,
+    "confidence": 0.990412,
+    "breakAfter": false,
+    "display": "the",
+    "e": 1.78
+  },
+  {
+    "word": "telegraph",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 1.78,
+    "confidence": 0.91784,
+    "breakAfter": false,
+    "display": "telegraph",
+    "e": 2.29
+  },
+  {
+    "word": "answered",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 2.29,
+    "confidence": 0.994131,
+    "breakAfter": false,
+    "display": "answered",
+    "e": 2.73
+  },
+  {
+    "word": "back",
+    "line": "hook",
+    "speaker": "narrator",
+    "s": 2.73,
+    "confidence": 0.992208,
+    "breakAfter": true,
+    "display": "back.",
+    "e": 2.88
+  },
+  {
+    "word": "September",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 3.16,
+    "confidence": 0.94876,
+    "breakAfter": false,
+    "display": "September,",
+    "e": 3.66
+  },
+  {
+    "word": "eighteen",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 3.66,
+    "confidence": 0.545688,
+    "breakAfter": false,
+    "display": "eighteen",
+    "e": 4.0
+  },
+  {
+    "word": "fifty-nine",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 4.0,
+    "confidence": 0.545688,
+    "breakAfter": true,
+    "display": "fifty-nine.",
+    "e": 4.54
+  },
+  {
+    "word": "A",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 4.54,
+    "confidence": 0.914023,
+    "breakAfter": false,
+    "display": "A",
+    "e": 4.61
+  },
+  {
+    "word": "tap",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 4.61,
+    "confidence": 0.989002,
+    "breakAfter": false,
+    "display": "tap",
+    "e": 4.83
+  },
+  {
+    "word": "in",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 4.83,
+    "confidence": 0.99744,
+    "breakAfter": false,
+    "display": "in",
+    "e": 4.98
+  },
+  {
+    "word": "Boston",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 4.98,
+    "confidence": 0.99458,
+    "breakAfter": false,
+    "display": "Boston",
+    "e": 5.44
+  },
+  {
+    "word": "makes",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 5.44,
+    "confidence": 0.924346,
+    "breakAfter": false,
+    "display": "makes",
+    "e": 5.65
+  },
+  {
+    "word": "a",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 5.65,
+    "confidence": 0.995087,
+    "breakAfter": false,
+    "display": "a",
+    "e": 5.69
+  },
+  {
+    "word": "click",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 5.69,
+    "confidence": 0.980966,
+    "breakAfter": false,
+    "display": "click",
+    "e": 6.01
+  },
+  {
+    "word": "in",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 6.01,
+    "confidence": 0.976194,
+    "breakAfter": false,
+    "display": "in",
+    "e": 6.12
+  },
+  {
+    "word": "Portland",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 6.12,
+    "confidence": 0.963603,
+    "breakAfter": false,
+    "display": "Portland,",
+    "e": 6.49
+  },
+  {
+    "word": "Maine",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 6.49,
+    "confidence": 0.991426,
+    "breakAfter": true,
+    "display": "Maine.",
+    "e": 6.9
+  },
+  {
+    "word": "That's",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 6.9,
+    "confidence": 0.996042,
+    "breakAfter": false,
+    "display": "That's",
+    "e": 7.03
+  },
+  {
+    "word": "how",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 7.03,
+    "confidence": 0.999382,
+    "breakAfter": false,
+    "display": "how",
+    "e": 7.23
+  },
+  {
+    "word": "news",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 7.23,
+    "confidence": 0.961176,
+    "breakAfter": false,
+    "display": "news",
+    "e": 7.34
+  },
+  {
+    "word": "gets",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 7.34,
+    "confidence": 0.995332,
+    "breakAfter": false,
+    "display": "gets",
+    "e": 7.52
+  },
+  {
+    "word": "down",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 7.52,
+    "confidence": 0.998957,
+    "breakAfter": false,
+    "display": "down",
+    "e": 7.7
+  },
+  {
+    "word": "the",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 7.7,
+    "confidence": 0.999054,
+    "breakAfter": false,
+    "display": "the",
+    "e": 7.83
+  },
+  {
+    "word": "wire",
+    "line": "city",
+    "speaker": "narrator",
+    "s": 7.83,
+    "confidence": 0.992075,
+    "breakAfter": true,
+    "display": "wire.",
+    "e": 8.18
+  },
+  {
+    "word": "Only",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 8.34,
+    "confidence": 0.997407,
+    "breakAfter": false,
+    "display": "Only",
+    "e": 8.38
+  },
+  {
+    "word": "now",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 8.38,
+    "confidence": 0.998452,
+    "breakAfter": false,
+    "display": "now",
+    "e": 8.51
+  },
+  {
+    "word": "the",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 8.51,
+    "confidence": 0.860769,
+    "breakAfter": false,
+    "display": "the",
+    "e": 8.67
+  },
+  {
+    "word": "sounder",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 8.67,
+    "confidence": 0.985589,
+    "breakAfter": false,
+    "display": "sounder",
+    "e": 8.96
+  },
+  {
+    "word": "is",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 8.96,
+    "confidence": 0.996749,
+    "breakAfter": false,
+    "display": "is",
+    "e": 9.04
+  },
+  {
+    "word": "hammering",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 9.04,
+    "confidence": 0.974848,
+    "breakAfter": false,
+    "display": "hammering",
+    "e": 9.45
+  },
+  {
+    "word": "by",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 9.45,
+    "confidence": 0.998534,
+    "breakAfter": false,
+    "display": "by",
+    "e": 9.63
+  },
+  {
+    "word": "itself",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 9.63,
+    "confidence": 0.998948,
+    "breakAfter": true,
+    "display": "itself.",
+    "e": 10.14
+  },
+  {
+    "word": "Across",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 10.14,
+    "confidence": 0.951017,
+    "breakAfter": false,
+    "display": "Across",
+    "e": 10.35
+  },
+  {
+    "word": "town",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 10.35,
+    "confidence": 0.995551,
+    "breakAfter": false,
+    "display": "town,",
+    "e": 10.69
+  },
+  {
+    "word": "the",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 10.69,
+    "confidence": 0.993443,
+    "breakAfter": false,
+    "display": "the",
+    "e": 10.85
+  },
+  {
+    "word": "other",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 10.85,
+    "confidence": 0.997965,
+    "breakAfter": false,
+    "display": "other",
+    "e": 11.43
+  },
+  {
+    "word": "lines",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 11.43,
+    "confidence": 0.997898,
+    "breakAfter": false,
+    "display": "lines",
+    "e": 11.458
+  },
+  {
+    "word": "go",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 11.458,
+    "confidence": 0.998567,
+    "breakAfter": false,
+    "display": "go",
+    "e": 11.55
+  },
+  {
+    "word": "wild",
+    "line": "odd",
+    "speaker": "narrator",
+    "s": 11.55,
+    "confidence": 0.996154,
+    "breakAfter": true,
+    "display": "wild.",
+    "e": 11.94
+  },
+  {
+    "word": "The",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 12.14,
+    "confidence": 0.973658,
+    "breakAfter": false,
+    "display": "The",
+    "e": 12.168
+  },
+  {
+    "word": "signal",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 12.168,
+    "confidence": 0.999737,
+    "breakAfter": false,
+    "display": "signal",
+    "e": 12.49
+  },
+  {
+    "word": "cuts",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 12.49,
+    "confidence": 0.998106,
+    "breakAfter": false,
+    "display": "cuts",
+    "e": 12.71
+  },
+  {
+    "word": "out",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 12.71,
+    "confidence": 0.999794,
+    "breakAfter": true,
+    "display": "out.",
+    "e": 13.0
+  },
+  {
+    "word": "Then",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 13.0,
+    "confidence": 0.982547,
+    "breakAfter": false,
+    "display": "Then",
+    "e": 13.19
+  },
+  {
+    "word": "the",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 13.19,
+    "confidence": 0.997352,
+    "breakAfter": false,
+    "display": "the",
+    "e": 13.43
+  },
+  {
+    "word": "current",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 13.43,
+    "confidence": 0.967025,
+    "breakAfter": false,
+    "display": "current",
+    "e": 13.67
+  },
+  {
+    "word": "slams",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 13.67,
+    "confidence": 0.994551,
+    "breakAfter": false,
+    "display": "slams",
+    "e": 13.91
+  },
+  {
+    "word": "back",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 13.91,
+    "confidence": 0.999216,
+    "breakAfter": true,
+    "display": "back!",
+    "e": 14.42
+  },
+  {
+    "word": "Boston",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 14.42,
+    "confidence": 0.994234,
+    "breakAfter": false,
+    "display": "Boston",
+    "e": 14.58
+  },
+  {
+    "word": "jumps",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 14.58,
+    "confidence": 0.994545,
+    "breakAfter": false,
+    "display": "jumps",
+    "e": 14.83
+  },
+  {
+    "word": "and",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 14.83,
+    "confidence": 0.833012,
+    "breakAfter": false,
+    "display": "and",
+    "e": 14.98
+  },
+  {
+    "word": "his",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 14.98,
+    "confidence": 0.998353,
+    "breakAfter": false,
+    "display": "his",
+    "e": 15.12
+  },
+  {
+    "word": "chair",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 15.12,
+    "confidence": 0.996485,
+    "breakAfter": false,
+    "display": "chair",
+    "e": 15.38
+  },
+  {
+    "word": "shoots",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 15.38,
+    "confidence": 0.990091,
+    "breakAfter": false,
+    "display": "shoots",
+    "e": 15.71
+  },
+  {
+    "word": "backward",
+    "line": "surge",
+    "speaker": "narrator",
+    "s": 15.71,
+    "confidence": 0.991159,
+    "breakAfter": true,
+    "display": "backward!",
+    "e": 16.2
+  },
+  {
+    "word": "Across",
+    "line": "fire",
+    "speaker": "narrator",
+    "s": 16.42,
+    "confidence": 0.835319,
+    "breakAfter": false,
+    "display": "Across",
+    "e": 16.59
+  },
+  {
+    "word": "the",
+    "line": "fire",
+    "speaker": "narrator",
+    "s": 16.59,
+    "confidence": 0.999222,
+    "breakAfter": false,
+    "display": "the",
+    "e": 16.75
+  },
+  {
+    "word": "network",
+    "line": "fire",
+    "speaker": "narrator",
+    "s": 16.75,
+    "confidence": 0.997971,
+    "breakAfter": false,
+    "display": "network,",
+    "e": 17.1
+  },
+  {
+    "word": "sparks",
+    "line": "fire",
+    "speaker": "narrator",
+    "s": 17.1,
+    "confidence": 0.540085,
+    "breakAfter": false,
+    "display": "sparks",
+    "e": 17.41
+  },
+  {
+    "word": "leap",
+    "line": "fire",
+    "speaker": "narrator",
+    "s": 17.41,
+    "confidence": 0.954299,
+    "breakAfter": false,
+    "display": "leap",
+    "e": 17.71
+  },
+  {
+    "word": "from",
+    "line": "fire",
+    "speaker": "narrator",
+    "s": 17.71,
+    "confidence": 0.994685,
+    "breakAfter": false,
+    "display": "from",
+    "e": 17.81
+  },
+  {
+    "word": "the",
+    "line": "fire",
+    "speaker": "narrator",
+    "s": 17.81,
+    "confidence": 0.992776,
+    "breakAfter": false,
+    "display": "the",
+    "e": 18.0
+  },
+  {
+    "word": "equipment",
+    "line": "fire",
+    "speaker": "narrator",
+    "s": 18.0,
+    "confidence": 0.999641,
+    "breakAfter": true,
+    "display": "equipment.",
+    "e": 18.74
+  },
+  {
+    "word": "At",
+    "line": "fire",
+    "speaker": "narrator",
+    "s": 18.74,
+    "confidence": 0.998704,
+    "breakAfter": false,
+    "display": "At",
+    "e": 18.78
+  },
+  {
+    "word": "one",
+    "line": "fire",
+    "speaker": "narrator",
+    "s": 18.78,
+    "confidence": 0.996335,
+    "breakAfter": false,
+    "display": "one",
+    "e": 18.89
+  },
+  {
+    "word": "station",
+    "line": "fire",
+    "speaker": "narrator",
+    "s": 18.89,
+    "confidence": 0.994364,
+    "breakAfter": false,
+    "display": "station",
+    "e": 19.32
+  },
+  {
+    "word": "the",
+    "line": "fire",
+    "speaker": "narrator",
+    "s": 19.32,
+    "confidence": 0.997508,
+    "breakAfter": false,
+    "display": "the",
+    "e": 19.46
+  },
+  {
+    "word": "paper",
+    "line": "fire",
+    "speaker": "narrator",
+    "s": 19.46,
+    "confidence": 0.999615,
+    "breakAfter": false,
+    "display": "paper",
+    "e": 19.72
+  },
+  {
+    "word": "catches",
+    "line": "fire",
+    "speaker": "narrator",
+    "s": 19.72,
+    "confidence": 0.997862,
+    "breakAfter": false,
+    "display": "catches",
+    "e": 20.07
+  },
+  {
+    "word": "fire",
+    "line": "fire",
+    "speaker": "narrator",
+    "s": 20.07,
+    "confidence": 0.999161,
+    "breakAfter": true,
+    "display": "fire!",
+    "e": 20.36
+  },
+  {
+    "word": "Boston",
+    "line": "idea",
+    "speaker": "narrator",
+    "s": 20.58,
+    "confidence": 0.99807,
+    "breakAfter": false,
+    "display": "Boston",
+    "e": 20.74
+  },
+  {
+    "word": "looks",
+    "line": "idea",
+    "speaker": "narrator",
+    "s": 20.74,
+    "confidence": 0.997035,
+    "breakAfter": false,
+    "display": "looks",
+    "e": 20.99
+  },
+  {
+    "word": "down",
+    "line": "idea",
+    "speaker": "narrator",
+    "s": 20.99,
+    "confidence": 0.999727,
+    "breakAfter": false,
+    "display": "down",
+    "e": 21.19
+  },
+  {
+    "word": "at",
+    "line": "idea",
+    "speaker": "narrator",
+    "s": 21.19,
+    "confidence": 0.998872,
+    "breakAfter": false,
+    "display": "at",
+    "e": 21.28
+  },
+  {
+    "word": "the",
+    "line": "idea",
+    "speaker": "narrator",
+    "s": 21.28,
+    "confidence": 0.999363,
+    "breakAfter": false,
+    "display": "the",
+    "e": 21.44
+  },
+  {
+    "word": "battery",
+    "line": "idea",
+    "speaker": "narrator",
+    "s": 21.44,
+    "confidence": 0.999098,
+    "breakAfter": true,
+    "display": "battery.",
+    "e": 22.1
+  },
+  {
+    "word": "What",
+    "line": "idea",
+    "speaker": "narrator",
+    "s": 22.1,
+    "confidence": 0.995399,
+    "breakAfter": false,
+    "display": "What",
+    "e": 22.2
+  },
+  {
+    "word": "if",
+    "line": "idea",
+    "speaker": "narrator",
+    "s": 22.2,
+    "confidence": 0.997603,
+    "breakAfter": false,
+    "display": "if",
+    "e": 22.31
+  },
+  {
+    "word": "they",
+    "line": "idea",
+    "speaker": "narrator",
+    "s": 22.31,
+    "confidence": 0.998864,
+    "breakAfter": false,
+    "display": "they",
+    "e": 22.56
+  },
+  {
+    "word": "cut",
+    "line": "idea",
+    "speaker": "narrator",
+    "s": 22.56,
+    "confidence": 0.998988,
+    "breakAfter": false,
+    "display": "cut",
+    "e": 22.74
+  },
+  {
+    "word": "it",
+    "line": "idea",
+    "speaker": "narrator",
+    "s": 22.74,
+    "confidence": 0.998685,
+    "breakAfter": false,
+    "display": "it",
+    "e": 22.855
+  },
+  {
+    "word": "off",
+    "line": "idea",
+    "speaker": "narrator",
+    "s": 22.855,
+    "confidence": 0.999805,
+    "breakAfter": true,
+    "display": "off?",
+    "e": 22.89
+  },
+  {
+    "word": "Cut",
+    "line": "cut",
+    "speaker": "boston",
+    "s": 23.38,
+    "confidence": 0.951484,
+    "breakAfter": false,
+    "display": "Cut",
+    "e": 23.43
+  },
+  {
+    "word": "off",
+    "line": "cut",
+    "speaker": "boston",
+    "s": 23.43,
+    "confidence": 0.994732,
+    "breakAfter": false,
+    "display": "off",
+    "e": 23.71
+  },
+  {
+    "word": "your",
+    "line": "cut",
+    "speaker": "boston",
+    "s": 23.71,
+    "confidence": 0.998574,
+    "breakAfter": false,
+    "display": "your",
+    "e": 23.86
+  },
+  {
+    "word": "battery",
+    "line": "cut",
+    "speaker": "boston",
+    "s": 23.86,
+    "confidence": 0.999781,
+    "breakAfter": true,
+    "display": "battery!",
+    "e": 24.29
+  },
+  {
+    "word": "Cut",
+    "line": "doubt",
+    "speaker": "portland",
+    "s": 24.66,
+    "confidence": 0.997089,
+    "breakAfter": false,
+    "display": "Cut",
+    "e": 24.688
+  },
+  {
+    "word": "it",
+    "line": "doubt",
+    "speaker": "portland",
+    "s": 24.688,
+    "confidence": 0.998083,
+    "breakAfter": false,
+    "display": "it",
+    "e": 24.78
+  },
+  {
+    "word": "off",
+    "line": "doubt",
+    "speaker": "portland",
+    "s": 24.78,
+    "confidence": 0.99963,
+    "breakAfter": true,
+    "display": "off?",
+    "e": 25.12
+  },
+  {
+    "word": "How",
+    "line": "doubt",
+    "speaker": "portland",
+    "s": 25.12,
+    "confidence": 0.546435,
+    "breakAfter": false,
+    "display": "How",
+    "e": 25.3
+  },
+  {
+    "word": "do",
+    "line": "doubt",
+    "speaker": "portland",
+    "s": 25.3,
+    "confidence": 0.99891,
+    "breakAfter": false,
+    "display": "do",
+    "e": 25.42
+  },
+  {
+    "word": "you",
+    "line": "doubt",
+    "speaker": "portland",
+    "s": 25.42,
+    "confidence": 0.999367,
+    "breakAfter": false,
+    "display": "you",
+    "e": 25.6
+  },
+  {
+    "word": "expect",
+    "line": "doubt",
+    "speaker": "portland",
+    "s": 25.6,
+    "confidence": 0.998854,
+    "breakAfter": false,
+    "display": "expect",
+    "e": 25.96
+  },
+  {
+    "word": "me",
+    "line": "doubt",
+    "speaker": "portland",
+    "s": 25.96,
+    "confidence": 0.999384,
+    "breakAfter": false,
+    "display": "me",
+    "e": 26.08
+  },
+  {
+    "word": "to",
+    "line": "doubt",
+    "speaker": "portland",
+    "s": 26.08,
+    "confidence": 0.999357,
+    "breakAfter": false,
+    "display": "to",
+    "e": 26.24
+  },
+  {
+    "word": "hear",
+    "line": "doubt",
+    "speaker": "portland",
+    "s": 26.24,
+    "confidence": 0.999293,
+    "breakAfter": false,
+    "display": "hear",
+    "e": 26.44
+  },
+  {
+    "word": "you",
+    "line": "doubt",
+    "speaker": "portland",
+    "s": 26.44,
+    "confidence": 0.997276,
+    "breakAfter": true,
+    "display": "you?",
+    "e": 26.68
+  },
+  {
+    "word": "Mine's",
+    "line": "listen",
+    "speaker": "boston",
+    "s": 26.98,
+    "confidence": 0.639655,
+    "breakAfter": false,
+    "display": "Mine's",
+    "e": 27.31
+  },
+  {
+    "word": "already",
+    "line": "listen",
+    "speaker": "boston",
+    "s": 27.31,
+    "confidence": 0.999605,
+    "breakAfter": false,
+    "display": "already",
+    "e": 27.68
+  },
+  {
+    "word": "off",
+    "line": "listen",
+    "speaker": "boston",
+    "s": 27.68,
+    "confidence": 0.999804,
+    "breakAfter": true,
+    "display": "off.",
+    "e": 28.27
+  },
+  {
+    "word": "Listen",
+    "line": "listen",
+    "speaker": "boston",
+    "s": 28.27,
+    "confidence": 0.837271,
+    "breakAfter": true,
+    "display": "Listen.",
+    "e": 28.66
+  },
+  {
+    "word": "Portland",
+    "line": "hesitate",
+    "speaker": "narrator",
+    "s": 28.9,
+    "confidence": 0.992392,
+    "breakAfter": false,
+    "display": "Portland",
+    "e": 29.27
+  },
+  {
+    "word": "sets",
+    "line": "hesitate",
+    "speaker": "narrator",
+    "s": 29.27,
+    "confidence": 0.969135,
+    "breakAfter": false,
+    "display": "sets",
+    "e": 29.52
+  },
+  {
+    "word": "down",
+    "line": "hesitate",
+    "speaker": "narrator",
+    "s": 29.52,
+    "confidence": 0.999397,
+    "breakAfter": false,
+    "display": "down",
+    "e": 29.77
+  },
+  {
+    "word": "the",
+    "line": "hesitate",
+    "speaker": "narrator",
+    "s": 29.77,
+    "confidence": 0.996109,
+    "breakAfter": false,
+    "display": "the",
+    "e": 30.19
+  },
+  {
+    "word": "lead",
+    "line": "hesitate",
+    "speaker": "narrator",
+    "s": 30.19,
+    "confidence": 0.996056,
+    "breakAfter": true,
+    "display": "lead.",
+    "e": 30.48
+  },
+  {
+    "word": "He",
+    "line": "hesitate",
+    "speaker": "narrator",
+    "s": 30.48,
+    "confidence": 0.800343,
+    "breakAfter": false,
+    "display": "He",
+    "e": 30.7
+  },
+  {
+    "word": "waits",
+    "line": "hesitate",
+    "speaker": "narrator",
+    "s": 30.7,
+    "confidence": 0.987888,
+    "breakAfter": true,
+    "display": "waits.",
+    "e": 31.14
+  },
+  {
+    "word": "Now",
+    "line": "signal",
+    "speaker": "narrator",
+    "s": 31.88,
+    "confidence": 0.997956,
+    "breakAfter": false,
+    "display": "Now",
+    "e": 31.908
+  },
+  {
+    "word": "the",
+    "line": "signal",
+    "speaker": "narrator",
+    "s": 31.908,
+    "confidence": 0.949363,
+    "breakAfter": false,
+    "display": "the",
+    "e": 32.0
+  },
+  {
+    "word": "whole",
+    "line": "signal",
+    "speaker": "narrator",
+    "s": 32.0,
+    "confidence": 0.976677,
+    "breakAfter": false,
+    "display": "whole",
+    "e": 32.23
+  },
+  {
+    "word": "signal",
+    "line": "signal",
+    "speaker": "narrator",
+    "s": 32.23,
+    "confidence": 0.999706,
+    "breakAfter": false,
+    "display": "signal",
+    "e": 32.46
+  },
+  {
+    "word": "comes",
+    "line": "signal",
+    "speaker": "narrator",
+    "s": 32.46,
+    "confidence": 0.998504,
+    "breakAfter": false,
+    "display": "comes",
+    "e": 32.67
+  },
+  {
+    "word": "through",
+    "line": "signal",
+    "speaker": "narrator",
+    "s": 32.67,
+    "confidence": 0.998332,
+    "breakAfter": true,
+    "display": "through.",
+    "e": 33.26
+  },
+  {
+    "word": "Every",
+    "line": "signal",
+    "speaker": "narrator",
+    "s": 33.26,
+    "confidence": 0.997269,
+    "breakAfter": false,
+    "display": "Every",
+    "e": 33.43
+  },
+  {
+    "word": "tap",
+    "line": "signal",
+    "speaker": "narrator",
+    "s": 33.43,
+    "confidence": 0.998395,
+    "breakAfter": false,
+    "display": "tap",
+    "e": 33.61
+  },
+  {
+    "word": "clear",
+    "line": "signal",
+    "speaker": "narrator",
+    "s": 33.61,
+    "confidence": 0.782975,
+    "breakAfter": false,
+    "display": "clear",
+    "e": 33.92
+  },
+  {
+    "word": "enough",
+    "line": "signal",
+    "speaker": "narrator",
+    "s": 33.92,
+    "confidence": 0.999504,
+    "breakAfter": false,
+    "display": "enough",
+    "e": 34.28
+  },
+  {
+    "word": "to",
+    "line": "signal",
+    "speaker": "narrator",
+    "s": 34.28,
+    "confidence": 0.998993,
+    "breakAfter": false,
+    "display": "to",
+    "e": 34.445
+  },
+  {
+    "word": "read",
+    "line": "signal",
+    "speaker": "narrator",
+    "s": 34.445,
+    "confidence": 0.998702,
+    "breakAfter": true,
+    "display": "read.",
+    "e": 34.48
+  },
+  {
+    "word": "Better",
+    "line": "reply",
+    "speaker": "portland",
+    "s": 35.02,
+    "confidence": 0.904982,
+    "breakAfter": false,
+    "display": "Better",
+    "e": 35.23
+  },
+  {
+    "word": "than",
+    "line": "reply",
+    "speaker": "portland",
+    "s": 35.23,
+    "confidence": 0.997413,
+    "breakAfter": false,
+    "display": "than",
+    "e": 35.46
+  },
+  {
+    "word": "before",
+    "line": "reply",
+    "speaker": "portland",
+    "s": 35.46,
+    "confidence": 0.999908,
+    "breakAfter": true,
+    "display": "before.",
+    "e": 35.91
+  },
+  {
+    "word": "They",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 36.14,
+    "confidence": 0.997645,
+    "breakAfter": false,
+    "display": "They",
+    "e": 36.22
+  },
+  {
+    "word": "try",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 36.22,
+    "confidence": 0.994879,
+    "breakAfter": false,
+    "display": "try",
+    "e": 36.47
+  },
+  {
+    "word": "another",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 36.47,
+    "confidence": 0.999138,
+    "breakAfter": false,
+    "display": "another",
+    "e": 36.76
+  },
+  {
+    "word": "message",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 36.76,
+    "confidence": 0.99971,
+    "breakAfter": true,
+    "display": "message.",
+    "e": 37.46
+  },
+  {
+    "word": "Both",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 37.46,
+    "confidence": 0.992871,
+    "breakAfter": false,
+    "display": "Both",
+    "e": 37.57
+  },
+  {
+    "word": "leads",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 37.57,
+    "confidence": 0.998384,
+    "breakAfter": false,
+    "display": "leads",
+    "e": 37.88
+  },
+  {
+    "word": "are",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 37.88,
+    "confidence": 0.999653,
+    "breakAfter": false,
+    "display": "are",
+    "e": 38.06
+  },
+  {
+    "word": "still",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 38.06,
+    "confidence": 0.999632,
+    "breakAfter": false,
+    "display": "still",
+    "e": 38.37
+  },
+  {
+    "word": "on",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 38.37,
+    "confidence": 0.999741,
+    "breakAfter": false,
+    "display": "on",
+    "e": 38.67
+  },
+  {
+    "word": "the",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 38.67,
+    "confidence": 0.999569,
+    "breakAfter": false,
+    "display": "the",
+    "e": 38.75
+  },
+  {
+    "word": "desks",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 38.75,
+    "confidence": 0.990441,
+    "breakAfter": true,
+    "display": "desks.",
+    "e": 39.34
+  },
+  {
+    "word": "The",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 39.34,
+    "confidence": 0.999464,
+    "breakAfter": false,
+    "display": "The",
+    "e": 39.43
+  },
+  {
+    "word": "current",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 39.43,
+    "confidence": 0.99955,
+    "breakAfter": false,
+    "display": "current",
+    "e": 39.97
+  },
+  {
+    "word": "comes",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 39.97,
+    "confidence": 0.997952,
+    "breakAfter": false,
+    "display": "comes",
+    "e": 40.59
+  },
+  {
+    "word": "and",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 40.59,
+    "confidence": 0.996478,
+    "breakAfter": false,
+    "display": "and",
+    "e": 40.63
+  },
+  {
+    "word": "goes",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 40.63,
+    "confidence": 0.999051,
+    "breakAfter": true,
+    "display": "goes.",
+    "e": 41.04
+  },
+  {
+    "word": "As",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 41.04,
+    "confidence": 0.928607,
+    "breakAfter": false,
+    "display": "As",
+    "e": 41.16
+  },
+  {
+    "word": "it",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 41.16,
+    "confidence": 0.99838,
+    "breakAfter": false,
+    "display": "it",
+    "e": 41.32
+  },
+  {
+    "word": "settles",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 41.32,
+    "confidence": 0.992099,
+    "breakAfter": false,
+    "display": "settles,",
+    "e": 41.77
+  },
+  {
+    "word": "they",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 41.77,
+    "confidence": 0.822574,
+    "breakAfter": false,
+    "display": "they",
+    "e": 41.88
+  },
+  {
+    "word": "send",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 41.88,
+    "confidence": 0.962401,
+    "breakAfter": false,
+    "display": "send",
+    "e": 42.29
+  },
+  {
+    "word": "the",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 42.29,
+    "confidence": 0.995765,
+    "breakAfter": false,
+    "display": "the",
+    "e": 42.37
+  },
+  {
+    "word": "next",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 42.37,
+    "confidence": 0.999127,
+    "breakAfter": false,
+    "display": "next",
+    "e": 42.59
+  },
+  {
+    "word": "one",
+    "line": "test",
+    "speaker": "narrator",
+    "s": 42.59,
+    "confidence": 0.99946,
+    "breakAfter": true,
+    "display": "one.",
+    "e": 42.88
+  },
+  {
+    "word": "A",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 43.085,
+    "confidence": 0.997716,
+    "breakAfter": false,
+    "display": "A",
+    "e": 43.14
+  },
+  {
+    "word": "storm",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 43.14,
+    "confidence": 0.999405,
+    "breakAfter": false,
+    "display": "storm",
+    "e": 43.36
+  },
+  {
+    "word": "from",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 43.36,
+    "confidence": 0.999352,
+    "breakAfter": false,
+    "display": "from",
+    "e": 43.6
+  },
+  {
+    "word": "the",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 43.6,
+    "confidence": 0.997558,
+    "breakAfter": false,
+    "display": "the",
+    "e": 43.78
+  },
+  {
+    "word": "Sun",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 43.78,
+    "confidence": 0.842849,
+    "breakAfter": false,
+    "display": "Sun",
+    "e": 43.96
+  },
+  {
+    "word": "shook",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 43.96,
+    "confidence": 0.998475,
+    "breakAfter": false,
+    "display": "shook",
+    "e": 44.43
+  },
+  {
+    "word": "Earth's",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 44.43,
+    "confidence": 0.90354,
+    "breakAfter": false,
+    "display": "Earth's",
+    "e": 44.72
+  },
+  {
+    "word": "magnetic",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 44.72,
+    "confidence": 0.998292,
+    "breakAfter": false,
+    "display": "magnetic",
+    "e": 45.17
+  },
+  {
+    "word": "field",
+    "line": "sun",
+    "speaker": "narrator",
+    "s": 45.17,
+    "confidence": 0.997232,
+    "breakAfter": true,
+    "display": "field.",
+    "e": 45.69
+  },
+  {
+    "word": "That",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 45.86,
+    "confidence": 0.998165,
+    "breakAfter": false,
+    "display": "That",
+    "e": 45.96
+  },
+  {
+    "word": "change",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 45.96,
+    "confidence": 0.979531,
+    "breakAfter": false,
+    "display": "change",
+    "e": 46.32
+  },
+  {
+    "word": "created",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 46.32,
+    "confidence": 0.998519,
+    "breakAfter": false,
+    "display": "created",
+    "e": 46.74
+  },
+  {
+    "word": "an",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 46.74,
+    "confidence": 0.999123,
+    "breakAfter": false,
+    "display": "an",
+    "e": 47.15
+  },
+  {
+    "word": "electric",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 47.15,
+    "confidence": 0.998551,
+    "breakAfter": false,
+    "display": "electric",
+    "e": 47.36
+  },
+  {
+    "word": "field",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 47.36,
+    "confidence": 0.999045,
+    "breakAfter": false,
+    "display": "field",
+    "e": 47.64
+  },
+  {
+    "word": "at",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 47.64,
+    "confidence": 0.991327,
+    "breakAfter": false,
+    "display": "at",
+    "e": 47.76
+  },
+  {
+    "word": "ground",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 47.76,
+    "confidence": 0.99798,
+    "breakAfter": false,
+    "display": "ground",
+    "e": 48.12
+  },
+  {
+    "word": "level",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 48.12,
+    "confidence": 0.994457,
+    "breakAfter": true,
+    "display": "level.",
+    "e": 48.76
+  },
+  {
+    "word": "It",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 48.76,
+    "confidence": 0.999024,
+    "breakAfter": false,
+    "display": "It",
+    "e": 48.788
+  },
+  {
+    "word": "pushed",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 48.788,
+    "confidence": 0.999352,
+    "breakAfter": false,
+    "display": "pushed",
+    "e": 49.13
+  },
+  {
+    "word": "current",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 49.13,
+    "confidence": 0.992884,
+    "breakAfter": false,
+    "display": "current",
+    "e": 49.56
+  },
+  {
+    "word": "through",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 49.56,
+    "confidence": 0.975748,
+    "breakAfter": false,
+    "display": "through",
+    "e": 50.07
+  },
+  {
+    "word": "the",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 50.07,
+    "confidence": 0.99673,
+    "breakAfter": false,
+    "display": "the",
+    "e": 50.17
+  },
+  {
+    "word": "long",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 50.17,
+    "confidence": 0.998034,
+    "breakAfter": false,
+    "display": "long,",
+    "e": 50.55
+  },
+  {
+    "word": "grounded",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 50.55,
+    "confidence": 0.98008,
+    "breakAfter": false,
+    "display": "grounded",
+    "e": 51.02
+  },
+  {
+    "word": "telegraph",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 51.02,
+    "confidence": 0.988001,
+    "breakAfter": false,
+    "display": "telegraph",
+    "e": 51.74
+  },
+  {
+    "word": "line",
+    "line": "ground",
+    "speaker": "narrator",
+    "s": 51.74,
+    "confidence": 0.980893,
+    "breakAfter": true,
+    "display": "line.",
+    "e": 52.01
+  },
+  {
+    "word": "The",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 52.22,
+    "confidence": 0.995566,
+    "breakAfter": false,
+    "display": "The",
+    "e": 52.29
+  },
+  {
+    "word": "same",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 52.29,
+    "confidence": 0.99976,
+    "breakAfter": false,
+    "display": "same",
+    "e": 52.57
+  },
+  {
+    "word": "storm",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 52.57,
+    "confidence": 0.999619,
+    "breakAfter": false,
+    "display": "storm",
+    "e": 52.92
+  },
+  {
+    "word": "lit",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 52.92,
+    "confidence": 0.994163,
+    "breakAfter": false,
+    "display": "lit",
+    "e": 53.13
+  },
+  {
+    "word": "up",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 53.13,
+    "confidence": 0.998254,
+    "breakAfter": false,
+    "display": "up",
+    "e": 53.48
+  },
+  {
+    "word": "the",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 53.48,
+    "confidence": 0.999314,
+    "breakAfter": false,
+    "display": "the",
+    "e": 53.51
+  },
+  {
+    "word": "sky",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 53.51,
+    "confidence": 0.999622,
+    "breakAfter": false,
+    "display": "sky",
+    "e": 53.69
+  },
+  {
+    "word": "with",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 53.69,
+    "confidence": 0.998967,
+    "breakAfter": false,
+    "display": "with",
+    "e": 53.99
+  },
+  {
+    "word": "auroras",
+    "line": "aurora",
+    "speaker": "narrator",
+    "s": 53.99,
+    "confidence": 0.96577,
+    "breakAfter": true,
+    "display": "auroras.",
+    "e": 54.61
+  },
+  {
+    "word": "They",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 54.82,
+    "confidence": 0.949763,
+    "breakAfter": false,
+    "display": "They",
+    "e": 54.87
+  },
+  {
+    "word": "turned",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 54.87,
+    "confidence": 0.998424,
+    "breakAfter": false,
+    "display": "turned",
+    "e": 55.15
+  },
+  {
+    "word": "off",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 55.15,
+    "confidence": 0.999253,
+    "breakAfter": false,
+    "display": "off",
+    "e": 55.29
+  },
+  {
+    "word": "their",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 55.29,
+    "confidence": 0.998232,
+    "breakAfter": false,
+    "display": "their",
+    "e": 55.52
+  },
+  {
+    "word": "batteries",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 55.52,
+    "confidence": 0.999708,
+    "breakAfter": true,
+    "display": "batteries.",
+    "e": 56.26
+  },
+  {
+    "word": "The",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 56.26,
+    "confidence": 0.754677,
+    "breakAfter": false,
+    "display": "The",
+    "e": 56.3
+  },
+  {
+    "word": "Sun",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 56.3,
+    "confidence": 0.798616,
+    "breakAfter": false,
+    "display": "Sun",
+    "e": 56.48
+  },
+  {
+    "word": "was",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 56.48,
+    "confidence": 0.998026,
+    "breakAfter": false,
+    "display": "was",
+    "e": 56.66
+  },
+  {
+    "word": "still",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 56.66,
+    "confidence": 0.998801,
+    "breakAfter": false,
+    "display": "still",
+    "e": 56.96
+  },
+  {
+    "word": "on",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 56.96,
+    "confidence": 0.998405,
+    "breakAfter": false,
+    "display": "on",
+    "e": 57.08
+  },
+  {
+    "word": "the",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 57.08,
+    "confidence": 0.998715,
+    "breakAfter": false,
+    "display": "the",
+    "e": 57.5
+  },
+  {
+    "word": "line",
+    "line": "end",
+    "speaker": "narrator",
+    "s": 57.5,
+    "confidence": 0.994184,
+    "breakAfter": true,
+    "display": "line.",
+    "e": 57.76
+  }
+]

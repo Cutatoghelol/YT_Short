@@ -1,0 +1,150 @@
+[
+  {
+    "id": "hook",
+    "who": "narrator",
+    "speed": 0.95,
+    "text": "Both batteries were off. Then the telegraph answered back.",
+    "s": 0.12,
+    "e": 2.88
+  },
+  {
+    "id": "city",
+    "who": "narrator",
+    "speed": 1.07,
+    "text": "September, eighteen fifty-nine. A tap in Boston makes a click in Portland, Maine. That's how news gets down the wire.",
+    "s": 3.085,
+    "e": 8.2058
+  },
+  {
+    "id": "odd",
+    "who": "narrator",
+    "speed": 1.12,
+    "gap": 0.12,
+    "text": "Then the sounder starts hammering by itself. Across town, the other lines go wild.",
+    "s": 8.3258,
+    "e": 11.88
+  },
+  {
+    "id": "surge",
+    "who": "narrator",
+    "speed": 1.16,
+    "text": "The signal cuts out. Then the current slams back! The operator jumps, and his chair shoots backward.",
+    "s": 12.085,
+    "e": 16.4057
+  },
+  {
+    "id": "fire",
+    "who": "narrator",
+    "speed": 1.18,
+    "gap": 0.12,
+    "text": "Across the network, sparks leap from the equipment. At one station, paper catches fire.",
+    "s": 16.5257,
+    "e": 20.359
+  },
+  {
+    "id": "idea",
+    "who": "narrator",
+    "speed": 0.99,
+    "gap": 0.15,
+    "text": "Boston looks down at the battery. What if they cut it off?",
+    "s": 20.509,
+    "e": 22.88
+  },
+  {
+    "id": "cut",
+    "who": "boston",
+    "speed": 1.09,
+    "gap": 0.27,
+    "text": "Cut off your battery!",
+    "s": 23.355,
+    "e": 24.5315
+  },
+  {
+    "id": "doubt",
+    "who": "portland",
+    "speed": 1.05,
+    "gap": 0.16,
+    "text": "Cut it off? How do you expect me to hear you?",
+    "s": 24.6915,
+    "e": 26.7713
+  },
+  {
+    "id": "listen",
+    "who": "boston",
+    "speed": 0.98,
+    "gap": 0.17,
+    "text": "Mine's already off. Listen.",
+    "s": 26.9413,
+    "e": 28.811
+  },
+  {
+    "id": "hesitate",
+    "who": "narrator",
+    "speed": 0.96,
+    "gap": 0.16,
+    "text": "Portland puts down the lead. He waits.",
+    "s": 28.971,
+    "e": 31.1664
+  },
+  {
+    "id": "signal",
+    "who": "narrator",
+    "speed": 1.13,
+    "gap": 0.48,
+    "text": "Then comes the whole signal, every tap clear enough to read.",
+    "s": 31.6464,
+    "e": 34.6926
+  },
+  {
+    "id": "reply",
+    "who": "portland",
+    "speed": 0.93,
+    "gap": 0.2,
+    "text": "Better than before.",
+    "s": 34.8926,
+    "e": 35.88
+  },
+  {
+    "id": "test",
+    "who": "narrator",
+    "speed": 1.12,
+    "text": "They send another test. Both leads are still on the desks. The current comes and goes, but when it steadies, they get right back to work.",
+    "s": 36.085,
+    "e": 42.88
+  },
+  {
+    "id": "sun",
+    "who": "narrator",
+    "speed": 1.04,
+    "text": "A storm from the Sun shook Earth's magnetic field.",
+    "s": 43.085,
+    "e": 45.6859
+  },
+  {
+    "id": "ground",
+    "who": "narrator",
+    "speed": 1.1,
+    "gap": 0.11,
+    "text": "That change created an electric field at ground level. It pushed current through the long, grounded telegraph line.",
+    "s": 45.7959,
+    "e": 52.0101
+  },
+  {
+    "id": "aurora",
+    "who": "narrator",
+    "speed": 1.0,
+    "gap": 0.16,
+    "text": "The same storm lit up the sky with auroras.",
+    "s": 52.1701,
+    "e": 54.6121
+  },
+  {
+    "id": "end",
+    "who": "narrator",
+    "speed": 0.94,
+    "gap": 0.14,
+    "text": "They'd turned off their batteries. The Sun was still on the line.",
+    "s": 54.7521,
+    "e": 57.76
+  }
+]

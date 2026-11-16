@@ -1,0 +1,210 @@
+[
+  {
+    "id": "hook",
+    "who": "narrator",
+    "speed": 0.95,
+    "range": [
+      0.12,
+      2.88
+    ],
+    "text": "Both batteries were off. Then the telegraph answered back.",
+    "s": 0.12,
+    "e": 2.88
+  },
+  {
+    "id": "city",
+    "who": "narrator",
+    "speed": 1.04,
+    "range": [
+      3.085,
+      8.18
+    ],
+    "text": "September, eighteen fifty-nine. A tap in Boston makes a click in Portland, Maine. That's how news gets down the wire.",
+    "s": 3.085,
+    "e": 8.18
+  },
+  {
+    "id": "odd",
+    "who": "narrator",
+    "speed": 1.13,
+    "range": [
+      8.3,
+      11.94
+    ],
+    "text": "Only now the sounder is hammering by itself. Across town, the other lines go wild.",
+    "s": 8.3,
+    "e": 11.94
+  },
+  {
+    "id": "surge",
+    "who": "narrator",
+    "speed": 1.19,
+    "take": "surge-2",
+    "range": [
+      12.085,
+      16.2
+    ],
+    "text": "The signal cuts out. Then the current slams back! Boston jumps and his chair shoots backward!",
+    "s": 12.085,
+    "e": 16.2
+  },
+  {
+    "id": "fire",
+    "who": "narrator",
+    "speed": 1.18,
+    "take": "fire-2",
+    "range": [
+      16.37,
+      20.36
+    ],
+    "text": "Across the network, sparks leap from the equipment. At one station the paper catches fire!",
+    "s": 16.37,
+    "e": 20.36
+  },
+  {
+    "id": "idea",
+    "who": "narrator",
+    "speed": 0.975,
+    "range": [
+      20.51,
+      22.89
+    ],
+    "text": "Boston looks down at the battery. What if they cut it off?",
+    "s": 20.51,
+    "e": 22.89
+  },
+  {
+    "id": "cut",
+    "who": "boston",
+    "speed": 1.14,
+    "take": "cut-3",
+    "range": [
+      23.3,
+      24.29
+    ],
+    "text": "Cut off your battery!",
+    "s": 23.3,
+    "e": 24.29
+  },
+  {
+    "id": "doubt",
+    "who": "portland",
+    "speed": 1.07,
+    "range": [
+      24.58,
+      26.68
+    ],
+    "text": "Cut it off? How do you expect me to hear you?",
+    "s": 24.58,
+    "e": 26.68
+  },
+  {
+    "id": "listen",
+    "who": "boston",
+    "speed": 1.01,
+    "range": [
+      26.9,
+      28.66
+    ],
+    "text": "Mine's already off. Listen.",
+    "s": 26.9,
+    "e": 28.66
+  },
+  {
+    "id": "hesitate",
+    "who": "narrator",
+    "speed": 0.97,
+    "range": [
+      28.83,
+      31.14
+    ],
+    "text": "Portland sets down the lead. He waits.",
+    "s": 28.83,
+    "e": 31.14
+  },
+  {
+    "id": "signal",
+    "who": "narrator",
+    "speed": 1.12,
+    "range": [
+      31.83,
+      34.48
+    ],
+    "text": "Now the whole signal comes through. Every tap clear enough to read.",
+    "s": 31.83,
+    "e": 34.48
+  },
+  {
+    "id": "reply",
+    "who": "portland",
+    "speed": 0.89,
+    "take": "reply-2",
+    "range": [
+      34.97,
+      35.91
+    ],
+    "text": "Better than before.",
+    "s": 34.97,
+    "e": 35.91
+  },
+  {
+    "id": "test",
+    "who": "narrator",
+    "speed": 1.09,
+    "range": [
+      36.085,
+      42.88
+    ],
+    "text": "They try another message. Both leads are still on the desks. The current comes and goes. As it settles, they send the next one.",
+    "s": 36.085,
+    "e": 42.88
+  },
+  {
+    "id": "sun",
+    "who": "narrator",
+    "speed": 1.04,
+    "range": [
+      43.085,
+      45.69
+    ],
+    "text": "A storm from the Sun shook Earth's magnetic field.",
+    "s": 43.085,
+    "e": 45.69
+  },
+  {
+    "id": "ground",
+    "who": "narrator",
+    "speed": 1.1,
+    "range": [
+      45.8,
+      52.01
+    ],
+    "text": "That change created an electric field at ground level. It pushed current through the long, grounded telegraph line.",
+    "s": 45.8,
+    "e": 52.01
+  },
+  {
+    "id": "aurora",
+    "who": "narrator",
+    "speed": 1.0,
+    "range": [
+      52.17,
+      54.61
+    ],
+    "text": "The same storm lit up the sky with auroras.",
+    "s": 52.17,
+    "e": 54.61
+  },
+  {
+    "id": "end",
+    "who": "narrator",
+    "speed": 0.94,
+    "range": [
+      54.75,
+      57.76
+    ],
+    "text": "They turned off their batteries. The Sun was still on the line.",
+    "s": 54.75,
+    "e": 57.76
+  }
+]
